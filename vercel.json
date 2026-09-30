@@ -1,4 +1,5 @@
 {
+  "framework": "vite",
   "buildCommand": "cd E-Maap-Nirikshak && npm install && npm run build",
   "outputDirectory": "E-Maap-Nirikshak/dist",
   "rewrites": [
